@@ -12,16 +12,11 @@ public class GameObject {
 //	private final int TYPE_BALL = 1;
 //	private final int TYPE_SHIELD = 2;
 //	private final int TYPE_BRICK = 3;
-	
-	public GameObject() {
-		
-	}
 
-	public GameObject(String ) {
-	this.image = image;
+
 }
 	
 	
 	
 	
-}
+
